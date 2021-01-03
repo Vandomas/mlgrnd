@@ -1,14 +1,21 @@
 {
   "name": "mlgrnd",
   "version": "1.0.0",
-  "description": "simple mlg random on js",
-  "main": "index.js",
+  "description": "Strange random number generator",
+  "license": "MIT",
+  "author": "Vandomas",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "vandomas",
-  "license": "ISC",
+  "main": "index.js",
   "devDependencies": {
     "eslint": "^7.17.0"
-  }
+  },
+  "keywords": [
+    "random",
+    "strange random",
+    "random number",
+    "random number generator",
+    "number generator"
+  ]
 }
