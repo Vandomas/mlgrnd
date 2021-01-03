@@ -1,6 +1,6 @@
 ## Introduction
 
-I don't recommend using this as a serious random.
+Don't using this as a serious random!
 Idk why I created this...
 
 ### Installation
