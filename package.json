@@ -1,0 +1,14 @@
+{
+  "name": "mlgrnd",
+  "version": "1.0.0",
+  "description": "simple mlg random on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "vandomas",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
