@@ -4,6 +4,11 @@
   "description": "Strange random number generator",
   "license": "MIT",
   "author": "Vandomas",
+  "homepage": "https://github.com/vandomas/mlgrnd#introduction",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vandomas/mlgrnd"
+  },
   "scripts": {
     "test": "node index.js"
   },
